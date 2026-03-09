@@ -1,0 +1,67 @@
+body
+{
+    margin: 10px;
+    padding: 0px;
+}
+
+h1
+{
+    background-color: brown;
+    
+    color: white;
+    font-family: 'Lucida Handwriting', 'Papyrus', cursive;   
+    text-align: center;
+
+    padding: 10px 5px;
+    margin: 0px;
+}
+
+
+#home
+{    
+    background-color: rgb(0, 149, 255);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+
+
+li, p, a
+{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.small-text
+{
+    font-size: 16px;
+}
+
+img
+{
+    height: 200px;
+    width: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+
+li.odd
+{
+    background-color:lightgray;
+}
+
+
+ul li
+{
+    padding: 5px;
+}
+
+ol li
+{
+    margin-bottom: 50px;
+}
